@@ -1,0 +1,4 @@
+storePassword=zuhrul123
+keyPassword=zuhrul123
+keyAlias=key0
+storeFile=keystroke.jks
