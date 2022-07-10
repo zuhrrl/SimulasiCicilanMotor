@@ -1,6 +1,6 @@
-# simulasi_cicilan_motor
+# SimulasiCicilanMotor
 
-A new Flutter project.
+A new Flutter project loan and credit simulator
 
 ## Getting Started
 
